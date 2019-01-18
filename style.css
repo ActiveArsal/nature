@@ -39,6 +39,7 @@ p {
 	height: 100vh;
 	background: url(img/banner.jpg);
 	background-size: cover;
+	background-position: center;
 	margin-bottom: 0;
 }
 
@@ -182,6 +183,7 @@ p {
 	position: relative;
 	background: url(img/banner2.jpg);
 	background-size: cover;
+	background-position: center;
 	height: 100vh;
 }
 
@@ -253,6 +255,7 @@ p {
 	padding: 100px 0;
 	background: url(img/contactBg.jpg);
 	background-size: cover;
+	background-position: center;
 	min-height: 100vh;
 }
 
